@@ -1,0 +1,3 @@
+This following link points to the dataset available on Kaggle. Around 280 MB of images of male and female faces from all around the world.
+
+https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset
